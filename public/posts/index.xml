@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Caspar</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on Caspar</description>
+    <title>Posts on Caspar</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on Caspar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Nov 2019 13:44:36 +0800</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
