@@ -1,4 +1,4 @@
-baseurl = "https://te4flow.com"
+baseurl = "/"
 title = "Caspar"
 theme = "hugo-coder"
 languagecode = "en"
